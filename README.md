@@ -22,7 +22,7 @@ Following notebooks looks into using various Python-based machine learning and d
 Predicting whether or not someone has heart disease based on their medical attributes.
 Classification problem.
 
-### 2.Kaggle-Titaic:
+### 2.Kaggle-Titanic:
  
 -Predicting whether the passenger will survive or not based on the data attributes provided from Kaggle.
 -Classification Problem. 
