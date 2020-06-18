@@ -14,7 +14,7 @@ This is a Webscraping project aims at displaying only those news from hackers ne
 
 ## Machine Learning projects:
 
-Following are Machine learning and Data Science Projects written using Python in Jupyter Notebook.
+Thses are Machine learning and Data Science Projects written using Python in Jupyter Notebook.
 Following notebooks looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of:
 
 ### 1. Heart-Disease-Classification:
