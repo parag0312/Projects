@@ -6,7 +6,7 @@ Following projects are written in python:
 
 ### 1.checkmypass.py:
 
-This is a Password Checker Project. This project contains the most legitamate way for you to check whether your password have been hacked(released under Data Breaches) ever.
+This is a Password Checker Project. This project contains the most legitimate way for you to check whether your password have been hacked(released under Data Breaches) ever.
 
 ### 2.scrape.py:
 
